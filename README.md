@@ -1,4 +1,4 @@
 cse250B
 =======
 
-Repo to organize my CSE 250B work.
+Repo to organize CSE 250B work. I'm thinking one folder per project.
